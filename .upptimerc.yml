@@ -30,3 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/vevetron/upptime
+
+notifications:
+  - type: slack
+    webhook: $NOTIFICATION_SLACK_WEBHOOK_URL
