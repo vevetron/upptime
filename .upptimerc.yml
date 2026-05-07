@@ -20,6 +20,8 @@ sites:
     url: https://dbt-docs-staging.dds.dot.ca.gov
   - name: GTFS
     url: https://gtfs.dds.dot.ca.gov
+  - name: Cal-ITP
+    url: https://www.calitp.org
 
 status-website:
   name: Cal-ITP Sites uptime monitor
