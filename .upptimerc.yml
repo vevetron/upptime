@@ -22,6 +22,8 @@ sites:
     url: https://gtfs.dds.dot.ca.gov
   - name: Cal-ITP
     url: https://www.calitp.org
+  - name: Test Site
+    url: https://this-site-does-not-exist-123456.com
 
 status-website:
   name: Cal-ITP Sites uptime monitor
