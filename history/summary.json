@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 234,
-    "timeDay": 182,
-    "timeWeek": 196,
-    "timeMonth": 177,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 127,
+    "timeWeek": 178,
+    "timeMonth": 174,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2026-07-22": 41
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase-staging.dds.dot.ca.gov.ico",
     "slug": "metabase-staging",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
-    "time": 1028,
-    "timeDay": 164,
-    "timeWeek": 207,
-    "timeMonth": 201,
-    "timeYear": 1028,
+    "uptimeYear": "99.97%",
+    "time": 1018,
+    "timeDay": 123,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2026-07-22": 41
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 139,
-    "timeDay": 92,
-    "timeWeek": 98,
-    "timeMonth": 74,
+    "timeDay": 83,
+    "timeWeek": 92,
+    "timeMonth": 75,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2026-06-01": 118
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 102,
-    "timeWeek": 104,
-    "timeMonth": 79,
+    "timeDay": 90,
+    "timeWeek": 101,
+    "timeMonth": 81,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 89,
-    "timeDay": 100,
-    "timeWeek": 105,
-    "timeMonth": 88,
-    "timeYear": 89,
+    "time": 90,
+    "timeDay": 117,
+    "timeWeek": 106,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {
       "2026-06-01": 118
     }
@@ -103,15 +103,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/reports-staging.dds.dot.ca.gov.ico",
     "slug": "reports-staging",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.22%",
     "time": 92,
-    "timeDay": 112,
-    "timeWeek": 111,
-    "timeMonth": 85,
+    "timeDay": 106,
+    "timeWeek": 105,
+    "timeMonth": 87,
     "timeYear": 92,
     "dailyMinutesDown": {
       "2026-05-07": 903
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 146,
-    "timeDay": 201,
-    "timeWeek": 239,
-    "timeMonth": 156,
+    "timeDay": 159,
+    "timeWeek": 201,
+    "timeMonth": 161,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-06-01": 118
@@ -149,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 185,
-    "timeWeek": 211,
-    "timeMonth": 162,
+    "timeDay": 167,
+    "timeWeek": 204,
+    "timeMonth": 164,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -167,8 +167,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 75,
-    "timeDay": 108,
-    "timeWeek": 93,
+    "timeDay": 84,
+    "timeWeek": 89,
     "timeMonth": 77,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 249,
-    "timeDay": 335,
-    "timeWeek": 320,
+    "time": 248,
+    "timeDay": 216,
+    "timeWeek": 256,
     "timeMonth": 241,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-05-10": 94
     }
