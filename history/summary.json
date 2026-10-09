@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.dds.dot.ca.gov.ico",
     "slug": "metabase",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.43%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.43%",
     "time": 232,
     "timeDay": 301,
     "timeWeek": 217,
@@ -25,7 +25,7 @@
       "2026-08-31": 408,
       "2026-09-10": 250,
       "2026-09-16": 221,
-      "2026-10-09": 0
+      "2026-10-09": 114
     }
   },
   {
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase-staging.dds.dot.ca.gov.ico",
     "slug": "metabase-staging",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.43%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.43%",
     "time": 1308,
     "timeDay": 266,
     "timeWeek": 5929,
@@ -54,7 +54,7 @@
       "2026-08-31": 408,
       "2026-09-10": 249,
       "2026-09-16": 221,
-      "2026-10-09": 0
+      "2026-10-09": 114
     }
   },
   {
