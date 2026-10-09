@@ -4,16 +4,16 @@
     "url": "https://metabase.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.dds.dot.ca.gov.ico",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "92.10%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "99.43%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "99.38%",
     "time": 232,
-    "timeDay": 301,
+    "timeDay": 259,
     "timeWeek": 217,
-    "timeMonth": 269,
+    "timeMonth": 268,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-07-22": 41,
@@ -25,7 +25,7 @@
       "2026-08-31": 408,
       "2026-09-10": 250,
       "2026-09-16": 221,
-      "2026-10-09": 114
+      "2026-10-09": 220
     }
   },
   {
@@ -33,17 +33,17 @@
     "url": "https://metabase-staging.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/metabase-staging.dds.dot.ca.gov.ico",
     "slug": "metabase-staging",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "99.43%",
-    "time": 1308,
-    "timeDay": 266,
-    "timeWeek": 5929,
-    "timeMonth": 1422,
-    "timeYear": 1308,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "84.73%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "99.38%",
+    "time": 1302,
+    "timeDay": 244,
+    "timeWeek": 5216,
+    "timeMonth": 1389,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2026-07-22": 41,
       "2026-08-09": 45,
@@ -54,7 +54,7 @@
       "2026-08-31": 408,
       "2026-09-10": 249,
       "2026-09-16": 221,
-      "2026-10-09": 114
+      "2026-10-09": 220
     }
   },
   {
